@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="archivo-excel">
+    <output-path>$PROJECT_DIR$/out/artifacts/archivo_excel</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="archivo-excel" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="archivo-excel/web/Web" />
+    </root>
+  </artifact>
+</component>
